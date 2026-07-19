@@ -24,8 +24,6 @@
 
 # 📸 Dashboard Preview
 
-> Replace the image paths with your screenshots after uploading them.
-
 <p align="center">
 
 <img src="Images/dashboard-overview.png" width="900"/>

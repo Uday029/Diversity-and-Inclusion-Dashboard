@@ -35,4 +35,4 @@ This Power BI project provides insights into workforce diversity and inclusion u
 - Dataset (optional)
 
 ## Author
-Your Name
+Udayveer Singh Chaudhary
